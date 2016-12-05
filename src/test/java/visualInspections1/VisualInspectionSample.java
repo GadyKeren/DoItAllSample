@@ -1,4 +1,4 @@
-package VisualInspections;
+package visualInspections1;
 
 import com.applitools.eyes.selenium.Eyes;
 import com.applitools.eyes.RectangleSize;
