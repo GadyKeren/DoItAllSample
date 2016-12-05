@@ -1,7 +1,7 @@
-package sampleSuit1;
+package sampleSuit;
 
-import testSample1.MyFirstTest;
-import visualInspections1.VisualInspectionSample;
+import testSample.MyFirstTest;
+import visualInspections.VisualInspectionSample;
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
 
